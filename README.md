@@ -11,7 +11,7 @@ A static website documenting and exposing the deceptive practices of Pro Job Hun
 
 ## Installation
 
-Open `index.html` in any web browser to view the complete website.
+Open `index.html` in any web browser to view the complete website. Access the live website at https://a-dith-ya.github.io/pro-job-hunter-scam-exposed/
 
 ## Contributing
 
